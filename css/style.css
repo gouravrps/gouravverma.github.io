@@ -1,0 +1,14 @@
+.box{
+    width: 600px;
+    height: auto;
+    margin: 25px;
+    padding: 15px;
+    background-color: teal;
+    font-size: small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     color: white;
+     line-height: 1.8em;
+     border: tomato;
+     border-radius: 7px;
+     box-shadow: 1px 10px 25px black;
+}
